@@ -7,7 +7,7 @@
   <p align="center">
     Tutorial on how to add an activation process to your django application.
     <br />
-    <a href="#"><strong>view tutorial »</strong></a>
+    <a href="https://www.thedjangoguy.com/documentation/registration-with-email-activation/"><strong>view tutorial »</strong></a>
     <br />
   </p>
 </p>
